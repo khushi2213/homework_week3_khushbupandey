@@ -6,6 +6,10 @@ public class DivisionProgram11 {
 
     public static void main(String args[]) {
 
+        devide();
+    }
+        public static void devide() {
+
         System.out.println("\nDivided by 3: ");
         for (int i = 1; i < 100; i++) {
             if (i % 3 == 0)
